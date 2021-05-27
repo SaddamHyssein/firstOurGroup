@@ -2,7 +2,7 @@
  Hello my friends)
  This is first lesson.
 
-We need to write this text:
+We need to erase this text:
 
 Жил старик со своею старухой
 У самого синего моря;
@@ -32,5 +32,5 @@ We need to write this text:
 Ступай себе в синее море,
 Гуляй там себе на просторе».
 
-Everybody person will write two string.
+Everybody person will erase two string.
 Before took save and commit on repozitory. 
