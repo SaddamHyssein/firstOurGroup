@@ -3,7 +3,7 @@
  This is first lesson.
 
 We need to erase this text:
-
+---
 Cтарик и старуха
 Такая житуха
 Они жили в ветхой землянке
@@ -33,4 +33,4 @@ Cтарик и старуха
 Гуляй там себе на просторе».
 
 Everybody person will erase two string.
-Before took save and commit on repozitory. 
+Before took save and commit on repozitory.
