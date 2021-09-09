@@ -1,11 +1,10 @@
 # firstOurGroup
- Hello my friends)
- This is first lesson.
+
+Hello my friends)
+This is first lesson.
 
 We need to erase this text:
 
-Жил старик со своею старухой
-У самого синего моря;
 Они жили в ветхой землянке
 Ровно тридцать лет и три года.
 Старик ловил неводом рыбу,
@@ -33,4 +32,4 @@ We need to erase this text:
 Гуляй там себе на просторе».
 
 Everybody person will erase two string.
-Before took save and commit on repozitory. 
+Before took save and commit on repozitory.
