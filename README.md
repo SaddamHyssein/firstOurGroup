@@ -5,6 +5,7 @@ This is first lesson.
 
 We need to erase this text:
 
+Antonexilz
 Они жили в ветхой землянке
 Ровно тридцать лет и три года.
 Старик ловил неводом рыбу,
